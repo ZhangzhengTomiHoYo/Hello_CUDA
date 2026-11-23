@@ -1,0 +1,7 @@
+# Compiled CUDA/C++ artifacts
+hello
+*.o
+*.out
+*.so
+*.a
+build/
