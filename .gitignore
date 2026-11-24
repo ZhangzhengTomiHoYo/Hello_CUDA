@@ -1,7 +1,5 @@
-# Compiled CUDA/C++ artifacts
-hello
-*.o
-*.out
-*.so
-*.a
-build/
+# Track only CUDA source files and this ignore file
+*
+!*/
+!*.cu
+!.gitignore
